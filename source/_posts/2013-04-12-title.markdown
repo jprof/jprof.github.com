@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Hello World"
+date: 2013-04-12 23:34
+comments: true
+categories: [programming]
+---
+
+This being my first post, and being a programmer through and through, it feels
+right to include a hello world program in this post.  
+
+``` c++ Hello World!
+#include "stdio.h"
+
+int main(int argc, char* argv[])
+{
+    printf("Hello World!\n");
+    return 0;
+}
+
+```
