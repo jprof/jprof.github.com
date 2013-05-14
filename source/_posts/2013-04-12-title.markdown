@@ -6,8 +6,8 @@ comments: true
 categories: [programming]
 ---
 
-This being my first post, and being a programmer through and through, it feels
-right to include a hello world program in this post.  
+This being my first post, it feels
+right to include a hello world program.  
 
 ``` c++ Hello World!
 #include "stdio.h"
