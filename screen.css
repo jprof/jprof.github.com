@@ -1,0 +1,55 @@
+body {
+    background-color: #E3DAC9;
+    color: #2C3E62;
+}
+
+.page-card {
+    border: 4px solid;
+    border-radius: 25px;
+    background-color: #F1EADC;
+}
+
+.top-bottom-border {
+   border-bottom-style: solid;
+   border-top-style: solid;
+   border-color: orange;
+   padding:15px;   
+}
+
+.border {
+   border: 3px solid orange;
+}
+
+.nav-list > ul{
+    list-style-type: none;
+}
+
+.nav-list li{
+    display: inline;
+    padding: 10;
+}
+
+.post-title {
+    color: #2C3E62;
+}
+
+#content-container{}
+
+#content{
+    font-size:14px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.posts {
+    list-style-type: none;
+}
+
+ul.posts {
+    padding: 0px;
+}
+
+ul.posts li a {
+    float: right;
+}
+.center { float: none; margin-left: auto; margin-right: auto; }
