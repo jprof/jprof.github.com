@@ -1,6 +1,10 @@
 body {
     background-color: #E3DAC9;
     color: #2C3E62;
+    font-family: 'EB Garamond', serif;
+    font-weight: 400;
+    font-size: 17px;
+    font-style: normal;
 }
 
 .page-card {
