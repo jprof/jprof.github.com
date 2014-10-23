@@ -73,5 +73,9 @@ div.project{
    padding:15px;
 }
 
+pre {
+    padding: 0px;
+}
+
 div.description{
 }
